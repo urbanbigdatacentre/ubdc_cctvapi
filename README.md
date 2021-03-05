@@ -4,7 +4,7 @@
 
 A python client to get cctv data from our public api services at
 
-https://api.ubdc.ac.uk/cctv
+https://api.ubdc.ac.uk/cctv/
 ### Installation
 
 It's recommended to use a virtual environment to install this client in
